@@ -1,4 +1,7 @@
 # Building-a-RAG-Based-Chatbot-with-Ollama-and-Langflow
+
+![Flow](flow.jpg)
+
 ## 🛠 Usage  
 
 ### 🔹 Python 3.10 or above 
